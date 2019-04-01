@@ -1,0 +1,115 @@
+﻿  BroadCaster.cpp
+BroadCaster.cpp(55): warning C4018: '<': signed/unsigned mismatch
+BroadCaster.cpp(82): warning C4018: '<': signed/unsigned mismatch
+  Bullet.cpp
+Bullet.cpp(43): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Bullet.cpp(44): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Bullet.cpp(112): warning C4244: 'initializing': conversion from 'float32' to 'int', possible loss of data
+Bullet.cpp(113): warning C4244: 'initializing': conversion from 'float32' to 'int', possible loss of data
+  CollisionListener.cpp
+  Component.cpp
+  Diamond.cpp
+Diamond.cpp(71): warning C4244: '=': conversion from 'float32' to 'int', possible loss of data
+Diamond.cpp(72): warning C4244: '=': conversion from 'float32' to 'int', possible loss of data
+  GameObject.cpp
+  GameOverState.cpp
+  GameStateManager.cpp
+  GlobalDeclarations.cpp
+  GroundObjects.cpp
+  InputManager.cpp
+  IntroState.cpp
+  LabelComponent.cpp
+  main.cpp
+main.cpp(7): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MenuState.cpp
+MenuState.cpp(60): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+MenuState.cpp(61): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  OutDoor.cpp
+  PacMan.cpp
+PacMan.cpp(78): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+PacMan.cpp(83): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+PacMan.cpp(149): warning C4244: '=': conversion from 'float32' to 'int', possible loss of data
+PacMan.cpp(150): warning C4244: '=': conversion from 'float32' to 'int', possible loss of data
+PacMan.cpp(233): warning C4244: '=': conversion from 'float32' to 'int', possible loss of data
+PacMan.cpp(234): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+PacMan.cpp(240): warning C4244: '=': conversion from 'float32' to 'int', possible loss of data
+PacMan.cpp(241): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  PhysicsComponent.cpp
+PhysicsComponent.cpp(37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+PhysicsComponent.cpp(38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+PhysicsComponent.cpp(39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+PhysicsComponent.cpp(40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Player.cpp
+  PlayState.cpp
+PlayState.cpp(129): warning C4018: '>': signed/unsigned mismatch
+PlayState.cpp(144): warning C4018: '<': signed/unsigned mismatch
+  Compiling...
+  SpawnManager.cpp
+  SpriteComponent.cpp
+SpriteComponent.cpp(38): warning C4244: '=': conversion from 'float32' to 'int', possible loss of data
+SpriteComponent.cpp(39): warning C4244: '=': conversion from 'float32' to 'int', possible loss of data
+  TextureManager.cpp
+Box2D.lib(b2World.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in BroadCaster.obj
+Box2D.lib(b2World.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in BroadCaster.obj
+Box2D.lib(b2World.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+Box2D.lib(b2Body.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in BroadCaster.obj
+Box2D.lib(b2Body.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in BroadCaster.obj
+Box2D.lib(b2PolygonShape.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in BroadCaster.obj
+Box2D.lib(b2PolygonShape.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in BroadCaster.obj
+Box2D.lib(b2BroadPhase.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in BroadCaster.obj
+Box2D.lib(b2BroadPhase.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in BroadCaster.obj
+Box2D.lib(b2ContactManager.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in BroadCaster.obj
+Box2D.lib(b2ContactManager.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in BroadCaster.obj
+Box2D.lib(b2Fixture.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in BroadCaster.obj
+Box2D.lib(b2Fixture.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in BroadCaster.obj
+Box2D.lib(b2Island.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in BroadCaster.obj
+Box2D.lib(b2Island.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in BroadCaster.obj
+Box2D.lib(b2Joint.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in BroadCaster.obj
+Box2D.lib(b2Joint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in BroadCaster.obj
+Box2D.lib(b2PulleyJoint.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in BroadCaster.obj
+Box2D.lib(b2PulleyJoint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in BroadCaster.obj
+Box2D.lib(b2Contact.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in BroadCaster.obj
+Box2D.lib(b2Contact.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in BroadCaster.obj
+Box2D.lib(b2WorldCallbacks.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in BroadCaster.obj
+Box2D.lib(b2WorldCallbacks.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in BroadCaster.obj
+Box2D.lib(b2ContactSolver.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in BroadCaster.obj
+Box2D.lib(b2ContactSolver.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in BroadCaster.obj
+Box2D.lib(b2DistanceJoint.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in BroadCaster.obj
+Box2D.lib(b2DistanceJoint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in BroadCaster.obj
+Box2D.lib(b2WheelJoint.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in BroadCaster.obj
+Box2D.lib(b2WheelJoint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in BroadCaster.obj
+Box2D.lib(b2MouseJoint.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in BroadCaster.obj
+Box2D.lib(b2MouseJoint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in BroadCaster.obj
+Box2D.lib(b2RevoluteJoint.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in BroadCaster.obj
+Box2D.lib(b2RevoluteJoint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in BroadCaster.obj
+Box2D.lib(b2PrismaticJoint.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in BroadCaster.obj
+Box2D.lib(b2PrismaticJoint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in BroadCaster.obj
+Box2D.lib(b2GearJoint.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in BroadCaster.obj
+Box2D.lib(b2GearJoint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in BroadCaster.obj
+Box2D.lib(b2WeldJoint.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in BroadCaster.obj
+Box2D.lib(b2WeldJoint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in BroadCaster.obj
+Box2D.lib(b2FrictionJoint.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in BroadCaster.obj
+Box2D.lib(b2FrictionJoint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in BroadCaster.obj
+Box2D.lib(b2RopeJoint.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in BroadCaster.obj
+Box2D.lib(b2RopeJoint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in BroadCaster.obj
+Box2D.lib(b2MotorJoint.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in BroadCaster.obj
+Box2D.lib(b2MotorJoint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in BroadCaster.obj
+Box2D.lib(b2CircleContact.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in BroadCaster.obj
+Box2D.lib(b2CircleContact.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in BroadCaster.obj
+Box2D.lib(b2PolygonAndCircleContact.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in BroadCaster.obj
+Box2D.lib(b2PolygonAndCircleContact.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in BroadCaster.obj
+Box2D.lib(b2PolygonContact.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in BroadCaster.obj
+Box2D.lib(b2PolygonContact.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in BroadCaster.obj
+Box2D.lib(b2EdgeAndCircleContact.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in BroadCaster.obj
+Box2D.lib(b2EdgeAndCircleContact.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in BroadCaster.obj
+Box2D.lib(b2EdgeAndPolygonContact.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in BroadCaster.obj
+Box2D.lib(b2EdgeAndPolygonContact.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in BroadCaster.obj
+Box2D.lib(b2ChainAndCircleContact.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in BroadCaster.obj
+Box2D.lib(b2ChainAndCircleContact.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in BroadCaster.obj
+Box2D.lib(b2ChainAndPolygonContact.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in BroadCaster.obj
+Box2D.lib(b2ChainAndPolygonContact.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in BroadCaster.obj
+Box2D.lib(b2ChainShape.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in BroadCaster.obj
+Box2D.lib(b2ChainShape.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in BroadCaster.obj
+Box2D.lib(b2EdgeShape.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in BroadCaster.obj
+Box2D.lib(b2EdgeShape.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in BroadCaster.obj
+LINK : fatal error LNK1561: entry point must be defined
