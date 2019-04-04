@@ -1,0 +1,277 @@
+﻿  BroadCaster.cpp
+  Bullet.cpp
+  CollisionListener.cpp
+  Component.cpp
+  Diamond.cpp
+  GameObject.cpp
+  GameOverState.cpp
+  GameStateManager.cpp
+  GlobalDeclarations.cpp
+  GroundObjects.cpp
+  InputManager.cpp
+  IntroState.cpp
+  LabelComponent.cpp
+  main.cpp
+  MenuState.cpp
+  OutDoor.cpp
+  PacMan.cpp
+  PhysicsComponent.cpp
+  Player.cpp
+  PlayState.cpp
+  Generating Code...
+  Compiling...
+  SpawnManager.cpp
+  SpriteComponent.cpp
+  TextureManager.cpp
+  Generating Code...
+LINK : error LNK2001: unresolved external symbol Main
+TextureManager.obj : error LNK2001: unresolved external symbol __imp__invalid_parameter
+Player.obj : error LNK2001: unresolved external symbol __imp__invalid_parameter
+PlayState.obj : error LNK2001: unresolved external symbol __imp__invalid_parameter
+SpawnManager.obj : error LNK2001: unresolved external symbol __imp__invalid_parameter
+SpriteComponent.obj : error LNK2001: unresolved external symbol __imp__invalid_parameter
+LabelComponent.obj : error LNK2001: unresolved external symbol __imp__invalid_parameter
+main.obj : error LNK2001: unresolved external symbol __imp__invalid_parameter
+OutDoor.obj : error LNK2001: unresolved external symbol __imp__invalid_parameter
+PacMan.obj : error LNK2001: unresolved external symbol __imp__invalid_parameter
+GameObject.obj : error LNK2001: unresolved external symbol __imp__invalid_parameter
+GameStateManager.obj : error LNK2001: unresolved external symbol __imp__invalid_parameter
+GroundObjects.obj : error LNK2001: unresolved external symbol __imp__invalid_parameter
+InputManager.obj : error LNK2001: unresolved external symbol __imp__invalid_parameter
+BroadCaster.obj : error LNK2001: unresolved external symbol __imp__invalid_parameter
+Bullet.obj : error LNK2001: unresolved external symbol __imp__invalid_parameter
+CollisionListener.obj : error LNK2001: unresolved external symbol __imp__invalid_parameter
+Diamond.obj : error LNK2001: unresolved external symbol __imp__invalid_parameter
+TextureManager.obj : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+Player.obj : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+PlayState.obj : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+SpawnManager.obj : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+SpriteComponent.obj : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+LabelComponent.obj : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+main.obj : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+OutDoor.obj : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+PacMan.obj : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+GameObject.obj : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+GameStateManager.obj : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+GroundObjects.obj : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+InputManager.obj : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+BroadCaster.obj : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+Bullet.obj : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+CollisionListener.obj : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+Diamond.obj : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+Player.obj : error LNK2001: unresolved external symbol memcpy
+PlayState.obj : error LNK2001: unresolved external symbol memcpy
+SpriteComponent.obj : error LNK2001: unresolved external symbol memcpy
+TextureManager.obj : error LNK2001: unresolved external symbol memcpy
+GroundObjects.obj : error LNK2001: unresolved external symbol memcpy
+LabelComponent.obj : error LNK2001: unresolved external symbol memcpy
+OutDoor.obj : error LNK2001: unresolved external symbol memcpy
+PacMan.obj : error LNK2001: unresolved external symbol memcpy
+BroadCaster.obj : error LNK2001: unresolved external symbol memcpy
+Bullet.obj : error LNK2001: unresolved external symbol memcpy
+CollisionListener.obj : error LNK2001: unresolved external symbol memcpy
+Diamond.obj : error LNK2001: unresolved external symbol memcpy
+TextureManager.obj : error LNK2001: unresolved external symbol memmove
+PacMan.obj : error LNK2001: unresolved external symbol memmove
+Player.obj : error LNK2001: unresolved external symbol memmove
+PlayState.obj : error LNK2001: unresolved external symbol memmove
+SpawnManager.obj : error LNK2001: unresolved external symbol memmove
+GameObject.obj : error LNK2001: unresolved external symbol memmove
+GameStateManager.obj : error LNK2001: unresolved external symbol memmove
+GroundObjects.obj : error LNK2001: unresolved external symbol memmove
+OutDoor.obj : error LNK2001: unresolved external symbol memmove
+BroadCaster.obj : error LNK2001: unresolved external symbol memmove
+Bullet.obj : error LNK2001: unresolved external symbol memmove
+CollisionListener.obj : error LNK2001: unresolved external symbol memmove
+Diamond.obj : error LNK2001: unresolved external symbol memmove
+SpawnManager.obj : error LNK2001: unresolved external symbol _CxxThrowException
+TextureManager.obj : error LNK2001: unresolved external symbol _CxxThrowException
+MSVCRTD.lib(throw_bad_alloc.obj) : error LNK2001: unresolved external symbol _CxxThrowException
+InputManager.obj : error LNK2001: unresolved external symbol _CxxThrowException
+LabelComponent.obj : error LNK2001: unresolved external symbol _CxxThrowException
+Player.obj : error LNK2001: unresolved external symbol _CxxThrowException
+PlayState.obj : error LNK2001: unresolved external symbol _CxxThrowException
+BroadCaster.obj : error LNK2001: unresolved external symbol _CxxThrowException
+Bullet.obj : error LNK2001: unresolved external symbol _CxxThrowException
+GameObject.obj : error LNK2001: unresolved external symbol _CxxThrowException
+GameStateManager.obj : error LNK2001: unresolved external symbol _CxxThrowException
+TextureManager.obj : error LNK2001: unresolved external symbol __CxxFrameHandler3
+MSVCRTD.lib(gshandlereh.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler3
+Player.obj : error LNK2001: unresolved external symbol __CxxFrameHandler3
+PlayState.obj : error LNK2001: unresolved external symbol __CxxFrameHandler3
+SpawnManager.obj : error LNK2001: unresolved external symbol __CxxFrameHandler3
+SpriteComponent.obj : error LNK2001: unresolved external symbol __CxxFrameHandler3
+main.obj : error LNK2001: unresolved external symbol __CxxFrameHandler3
+OutDoor.obj : error LNK2001: unresolved external symbol __CxxFrameHandler3
+PacMan.obj : error LNK2001: unresolved external symbol __CxxFrameHandler3
+PhysicsComponent.obj : error LNK2001: unresolved external symbol __CxxFrameHandler3
+GlobalDeclarations.obj : error LNK2001: unresolved external symbol __CxxFrameHandler3
+GroundObjects.obj : error LNK2001: unresolved external symbol __CxxFrameHandler3
+InputManager.obj : error LNK2001: unresolved external symbol __CxxFrameHandler3
+LabelComponent.obj : error LNK2001: unresolved external symbol __CxxFrameHandler3
+Diamond.obj : error LNK2001: unresolved external symbol __CxxFrameHandler3
+GameObject.obj : error LNK2001: unresolved external symbol __CxxFrameHandler3
+GameOverState.obj : error LNK2001: unresolved external symbol __CxxFrameHandler3
+GameStateManager.obj : error LNK2001: unresolved external symbol __CxxFrameHandler3
+BroadCaster.obj : error LNK2001: unresolved external symbol __CxxFrameHandler3
+Bullet.obj : error LNK2001: unresolved external symbol __CxxFrameHandler3
+CollisionListener.obj : error LNK2001: unresolved external symbol __CxxFrameHandler3
+Component.obj : error LNK2001: unresolved external symbol __CxxFrameHandler3
+PlayState.obj : error LNK2001: unresolved external symbol _purecall
+MenuState.obj : error LNK2001: unresolved external symbol _purecall
+PacMan.obj : error LNK2001: unresolved external symbol _purecall
+PhysicsComponent.obj : error LNK2001: unresolved external symbol _purecall
+Player.obj : error LNK2001: unresolved external symbol _purecall
+Bullet.obj : error LNK2001: unresolved external symbol _purecall
+Diamond.obj : error LNK2001: unresolved external symbol _purecall
+GameOverState.obj : error LNK2001: unresolved external symbol _purecall
+IntroState.obj : error LNK2001: unresolved external symbol _purecall
+Bullet.obj : error LNK2019: unresolved external symbol __imp_sqrtf referenced in function "float __cdecl sqrt(float)" (?sqrt@@YAMM@Z)
+Player.obj : error LNK2001: unresolved external symbol memcmp
+TextureManager.obj : error LNK2001: unresolved external symbol memcmp
+Bullet.obj : error LNK2001: unresolved external symbol memcmp
+Diamond.obj : error LNK2001: unresolved external symbol memcmp
+LabelComponent.obj : error LNK2001: unresolved external symbol memcmp
+PacMan.obj : error LNK2001: unresolved external symbol memcmp
+PlayState.obj : error LNK2001: unresolved external symbol strlen
+SpawnManager.obj : error LNK2001: unresolved external symbol strlen
+GroundObjects.obj : error LNK2001: unresolved external symbol strlen
+OutDoor.obj : error LNK2001: unresolved external symbol strlen
+PacMan.obj : error LNK2001: unresolved external symbol strlen
+Player.obj : error LNK2001: unresolved external symbol strlen
+Bullet.obj : error LNK2001: unresolved external symbol strlen
+CollisionListener.obj : error LNK2001: unresolved external symbol strlen
+Diamond.obj : error LNK2001: unresolved external symbol strlen
+GameOverState.obj : error LNK2001: unresolved external symbol strlen
+Bullet.obj : error LNK2019: unresolved external symbol SDL_GetMouseState referenced in function "public: void __cdecl Bullet::SetPosition(struct b2Vec2)" (?SetPosition@Bullet@@QEAAXUb2Vec2@@@Z)
+Bullet.obj : error LNK2019: unresolved external symbol "public: void __cdecl b2World::DestroyBody(class b2Body *)" (?DestroyBody@b2World@@QEAAXPEAVb2Body@@@Z) referenced in function "private: void __cdecl Bullet::DeleteBodiesIfAny(void)" (?DeleteBodiesIfAny@Bullet@@AEAAXXZ)
+Player.obj : error LNK2001: unresolved external symbol "public: void __cdecl b2World::DestroyBody(class b2Body *)" (?DestroyBody@b2World@@QEAAXPEAVb2Body@@@Z)
+MenuState.obj : error LNK2001: unresolved external symbol __imp___acrt_iob_func
+TextureManager.obj : error LNK2001: unresolved external symbol __imp___acrt_iob_func
+Component.obj : error LNK2001: unresolved external symbol __imp___acrt_iob_func
+GameOverState.obj : error LNK2001: unresolved external symbol __imp___acrt_iob_func
+GameStateManager.obj : error LNK2001: unresolved external symbol __imp___acrt_iob_func
+IntroState.obj : error LNK2001: unresolved external symbol __imp___acrt_iob_func
+MenuState.obj : error LNK2001: unresolved external symbol __imp___stdio_common_vfprintf
+TextureManager.obj : error LNK2001: unresolved external symbol __imp___stdio_common_vfprintf
+Component.obj : error LNK2001: unresolved external symbol __imp___stdio_common_vfprintf
+GameOverState.obj : error LNK2001: unresolved external symbol __imp___stdio_common_vfprintf
+GameStateManager.obj : error LNK2001: unresolved external symbol __imp___stdio_common_vfprintf
+IntroState.obj : error LNK2001: unresolved external symbol __imp___stdio_common_vfprintf
+Diamond.obj : error LNK2019: unresolved external symbol SDL_QueryTexture referenced in function "public: void __cdecl Diamond::init(void)" (?init@Diamond@@QEAAXXZ)
+LabelComponent.obj : error LNK2001: unresolved external symbol SDL_QueryTexture
+Player.obj : error LNK2001: unresolved external symbol SDL_QueryTexture
+SpriteComponent.obj : error LNK2001: unresolved external symbol SDL_QueryTexture
+Diamond.obj : error LNK2019: unresolved external symbol SDL_RenderCopyEx referenced in function "public: void __cdecl Diamond::render(void)" (?render@Diamond@@QEAAXXZ)
+PacMan.obj : error LNK2001: unresolved external symbol SDL_RenderCopyEx
+SpriteComponent.obj : error LNK2001: unresolved external symbol SDL_RenderCopyEx
+PlayState.obj : error LNK2001: unresolved external symbol SDL_GetTicks
+SpawnManager.obj : error LNK2001: unresolved external symbol SDL_GetTicks
+GameObject.obj : error LNK2001: unresolved external symbol SDL_GetTicks
+GameOverState.obj : error LNK2001: unresolved external symbol SDL_GetTicks
+PacMan.obj : error LNK2001: unresolved external symbol SDL_GetTicks
+Player.obj : error LNK2001: unresolved external symbol SDL_GetTicks
+GameObject.obj : error LNK2019: unresolved external symbol "public: void __cdecl b2Body::SetTransform(struct b2Vec2 const &,float)" (?SetTransform@b2Body@@QEAAXAEBUb2Vec2@@M@Z) referenced in function "public: void __cdecl GameObject::setTransform(struct b2Vec2,float)" (?setTransform@GameObject@@QEAAXUb2Vec2@@M@Z)
+TextureManager.obj : error LNK2001: unresolved external symbol SDL_FreeSurface
+GameOverState.obj : error LNK2001: unresolved external symbol SDL_FreeSurface
+IntroState.obj : error LNK2001: unresolved external symbol SDL_FreeSurface
+LabelComponent.obj : error LNK2001: unresolved external symbol SDL_FreeSurface
+MenuState.obj : error LNK2001: unresolved external symbol SDL_FreeSurface
+TextureManager.obj : error LNK2001: unresolved external symbol SDL_CreateTextureFromSurface
+GameOverState.obj : error LNK2001: unresolved external symbol SDL_CreateTextureFromSurface
+IntroState.obj : error LNK2001: unresolved external symbol SDL_CreateTextureFromSurface
+LabelComponent.obj : error LNK2001: unresolved external symbol SDL_CreateTextureFromSurface
+MenuState.obj : error LNK2001: unresolved external symbol SDL_CreateTextureFromSurface
+GameOverState.obj : error LNK2019: unresolved external symbol SDL_RenderClear referenced in function "public: virtual void __cdecl GameOverState::render(class GameStateManager *)" (?render@GameOverState@@UEAAXPEAVGameStateManager@@@Z)
+IntroState.obj : error LNK2001: unresolved external symbol SDL_RenderClear
+MenuState.obj : error LNK2001: unresolved external symbol SDL_RenderClear
+PlayState.obj : error LNK2001: unresolved external symbol SDL_RenderClear
+GameOverState.obj : error LNK2019: unresolved external symbol SDL_RenderCopy referenced in function "public: virtual void __cdecl GameOverState::render(class GameStateManager *)" (?render@GameOverState@@UEAAXPEAVGameStateManager@@@Z)
+IntroState.obj : error LNK2001: unresolved external symbol SDL_RenderCopy
+LabelComponent.obj : error LNK2001: unresolved external symbol SDL_RenderCopy
+MenuState.obj : error LNK2001: unresolved external symbol SDL_RenderCopy
+GameOverState.obj : error LNK2019: unresolved external symbol SDL_RenderPresent referenced in function "public: virtual void __cdecl GameOverState::render(class GameStateManager *)" (?render@GameOverState@@UEAAXPEAVGameStateManager@@@Z)
+IntroState.obj : error LNK2001: unresolved external symbol SDL_RenderPresent
+MenuState.obj : error LNK2001: unresolved external symbol SDL_RenderPresent
+PlayState.obj : error LNK2001: unresolved external symbol SDL_RenderPresent
+GameOverState.obj : error LNK2019: unresolved external symbol IMG_Load referenced in function "public: virtual void __cdecl GameOverState::Init(void)" (?Init@GameOverState@@UEAAXXZ)
+IntroState.obj : error LNK2001: unresolved external symbol IMG_Load
+MenuState.obj : error LNK2001: unresolved external symbol IMG_Load
+TextureManager.obj : error LNK2001: unresolved external symbol IMG_Load
+GameStateManager.obj : error LNK2019: unresolved external symbol SDL_GetError referenced in function "public: void __cdecl GameStateManager::Init(char const *,int,int,int,bool)" (?Init@GameStateManager@@QEAAXPEBDHHH_N@Z)
+GameStateManager.obj : error LNK2019: unresolved external symbol SDL_CreateSemaphore referenced in function "public: void __cdecl GameStateManager::Init(char const *,int,int,int,bool)" (?Init@GameStateManager@@QEAAXPEBDHHH_N@Z)
+GameStateManager.obj : error LNK2019: unresolved external symbol SDL_CreateWindow referenced in function "public: void __cdecl GameStateManager::Init(char const *,int,int,int,bool)" (?Init@GameStateManager@@QEAAXPEBDHHH_N@Z)
+GameStateManager.obj : error LNK2019: unresolved external symbol SDL_GetWindowSurface referenced in function "public: void __cdecl GameStateManager::Init(char const *,int,int,int,bool)" (?Init@GameStateManager@@QEAAXPEBDHHH_N@Z)
+MenuState.obj : error LNK2001: unresolved external symbol SDL_GetWindowSurface
+GameStateManager.obj : error LNK2019: unresolved external symbol SDL_CreateRenderer referenced in function "public: void __cdecl GameStateManager::Init(char const *,int,int,int,bool)" (?Init@GameStateManager@@QEAAXPEBDHHH_N@Z)
+SpriteComponent.obj : error LNK2001: unresolved external symbol SDL_CreateRenderer
+GameStateManager.obj : error LNK2019: unresolved external symbol SDL_SetRenderDrawColor referenced in function "public: void __cdecl GameStateManager::Init(char const *,int,int,int,bool)" (?Init@GameStateManager@@QEAAXPEBDHHH_N@Z)
+SpriteComponent.obj : error LNK2001: unresolved external symbol SDL_SetRenderDrawColor
+GameStateManager.obj : error LNK2019: unresolved external symbol SDL_Init referenced in function "public: void __cdecl GameStateManager::Init(char const *,int,int,int,bool)" (?Init@GameStateManager@@QEAAXPEBDHHH_N@Z)
+GameStateManager.obj : error LNK2019: unresolved external symbol SDL_Quit referenced in function "public: void __cdecl GameStateManager::Cleanup(void)" (?Cleanup@GameStateManager@@QEAAXXZ)
+GlobalDeclarations.obj : error LNK2019: unresolved external symbol "public: __cdecl b2World::b2World(struct b2Vec2 const &)" (??0b2World@@QEAA@AEBUb2Vec2@@@Z) referenced in function "void __cdecl `dynamic initializer for 'world''(void)" (??__Eworld@@YAXXZ)
+InputManager.obj : error LNK2019: unresolved external symbol SDL_GetKeyboardState referenced in function "public: void __cdecl InputManager::update(void)" (?update@InputManager@@QEAAXXZ)
+Player.obj : error LNK2001: unresolved external symbol SDL_GetKeyboardState
+InputManager.obj : error LNK2019: unresolved external symbol SDL_PollEvent referenced in function "public: void __cdecl InputManager::update(void)" (?update@InputManager@@QEAAXXZ)
+LabelComponent.obj : error LNK2019: unresolved external symbol TTF_OpenFont referenced in function "public: void __cdecl LabelComponent::AddFont(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int)" (?AddFont@LabelComponent@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0H@Z)
+LabelComponent.obj : error LNK2019: unresolved external symbol TTF_RenderText_Blended referenced in function "public: void __cdecl LabelComponent::SetLabelText(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?SetLabelText@LabelComponent@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z)
+main.obj : error LNK2019: unresolved external symbol __imp_srand referenced in function SDL_main
+PacMan.obj : error LNK2001: unresolved external symbol __imp_srand
+main.obj : error LNK2019: unresolved external symbol __imp__time64 referenced in function time
+PacMan.obj : error LNK2001: unresolved external symbol __imp__time64
+PacMan.obj : error LNK2019: unresolved external symbol __imp_rand referenced in function "private: void __cdecl PacMan::GetRandomDirection(void)" (?GetRandomDirection@PacMan@@AEAAXXZ)
+PhysicsComponent.obj : error LNK2001: unresolved external symbol "public: virtual class b2Shape * __cdecl b2PolygonShape::Clone(class b2BlockAllocator *)const " (?Clone@b2PolygonShape@@UEBAPEAVb2Shape@@PEAVb2BlockAllocator@@@Z)
+PhysicsComponent.obj : error LNK2001: unresolved external symbol "public: virtual int __cdecl b2PolygonShape::GetChildCount(void)const " (?GetChildCount@b2PolygonShape@@UEBAHXZ)
+PhysicsComponent.obj : error LNK2019: unresolved external symbol "public: void __cdecl b2PolygonShape::SetAsBox(float,float)" (?SetAsBox@b2PolygonShape@@QEAAXMM@Z) referenced in function "public: void __cdecl PhysicsComponent::createBody(int,int,int,int,class GameObject *,bool)" (?createBody@PhysicsComponent@@QEAAXHHHHPEAVGameObject@@_N@Z)
+PhysicsComponent.obj : error LNK2001: unresolved external symbol "public: virtual bool __cdecl b2PolygonShape::TestPoint(struct b2Transform const &,struct b2Vec2 const &)const " (?TestPoint@b2PolygonShape@@UEBA_NAEBUb2Transform@@AEBUb2Vec2@@@Z)
+PhysicsComponent.obj : error LNK2001: unresolved external symbol "public: virtual bool __cdecl b2PolygonShape::RayCast(struct b2RayCastOutput *,struct b2RayCastInput const &,struct b2Transform const &,int)const " (?RayCast@b2PolygonShape@@UEBA_NPEAUb2RayCastOutput@@AEBUb2RayCastInput@@AEBUb2Transform@@H@Z)
+PhysicsComponent.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl b2PolygonShape::ComputeAABB(struct b2AABB *,struct b2Transform const &,int)const " (?ComputeAABB@b2PolygonShape@@UEBAXPEAUb2AABB@@AEBUb2Transform@@H@Z)
+PhysicsComponent.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl b2PolygonShape::ComputeMass(struct b2MassData *,float)const " (?ComputeMass@b2PolygonShape@@UEBAXPEAUb2MassData@@M@Z)
+PhysicsComponent.obj : error LNK2019: unresolved external symbol "public: class b2Fixture * __cdecl b2Body::CreateFixture(struct b2FixtureDef const *)" (?CreateFixture@b2Body@@QEAAPEAVb2Fixture@@PEBUb2FixtureDef@@@Z) referenced in function "public: void __cdecl PhysicsComponent::createBody(int,int,int,int,class GameObject *,bool)" (?createBody@PhysicsComponent@@QEAAXHHHHPEAVGameObject@@_N@Z)
+PhysicsComponent.obj : error LNK2019: unresolved external symbol "public: void __cdecl b2World::SetContactListener(class b2ContactListener *)" (?SetContactListener@b2World@@QEAAXPEAVb2ContactListener@@@Z) referenced in function "public: virtual void __cdecl PhysicsComponent::init(void)" (?init@PhysicsComponent@@UEAAXXZ)
+PhysicsComponent.obj : error LNK2019: unresolved external symbol "public: class b2Body * __cdecl b2World::CreateBody(struct b2BodyDef const *)" (?CreateBody@b2World@@QEAAPEAVb2Body@@PEBUb2BodyDef@@@Z) referenced in function "public: void __cdecl PhysicsComponent::createBody(int,int,int,int,class GameObject *,bool)" (?createBody@PhysicsComponent@@QEAAXHHHHPEAVGameObject@@_N@Z)
+PhysicsComponent.obj : error LNK2019: unresolved external symbol "public: void __cdecl b2World::Step(float,int,int)" (?Step@b2World@@QEAAXMHH@Z) referenced in function "public: virtual void __cdecl PhysicsComponent::update(void)" (?update@PhysicsComponent@@UEAAXXZ)
+PhysicsComponent.obj : error LNK2019: unresolved external symbol "public: void __cdecl b2World::SetAllowSleeping(bool)" (?SetAllowSleeping@b2World@@QEAAX_N@Z) referenced in function "public: virtual void __cdecl PhysicsComponent::init(void)" (?init@PhysicsComponent@@UEAAXXZ)
+Player.obj : error LNK2019: unresolved external symbol "public: void __cdecl b2Body::SetFixedRotation(bool)" (?SetFixedRotation@b2Body@@QEAAX_N@Z) referenced in function "public: virtual void __cdecl Player::OnEvent(enum InputKey)" (?OnEvent@Player@@UEAAXW4InputKey@@@Z)
+PlayState.obj : error LNK2019: unresolved external symbol TTF_Init referenced in function "public: virtual void __cdecl PlayState::Init(void)" (?Init@PlayState@@UEAAXXZ)
+TextureManager.obj : error LNK2019: unresolved external symbol SDL_DestroyTexture referenced in function "public: void __cdecl TextureManager::UnloadTexture(struct LoadedTexture *)" (?UnloadTexture@TextureManager@@QEAAXPEAULoadedTexture@@@Z)
+MSVCRTD.lib(new_scalar.obj) : error LNK2019: unresolved external symbol _callnewh referenced in function "void * __cdecl operator new(unsigned __int64)" (??2@YAPEAX_K@Z)
+MSVCRTD.lib(new_scalar.obj) : error LNK2019: unresolved external symbol malloc referenced in function "void * __cdecl operator new(unsigned __int64)" (??2@YAPEAX_K@Z)
+MSVCRTD.lib(init.obj) : error LNK2019: unresolved external symbol _CrtDbgReport referenced in function _CRT_RTC_INIT
+MSVCRTD.lib(init.obj) : error LNK2019: unresolved external symbol _CrtDbgReportW referenced in function _CRT_RTC_INITW
+MSVCRTD.lib(utility.obj) : error LNK2019: unresolved external symbol __vcrt_initialize referenced in function __scrt_initialize_crt
+MSVCRTD.lib(utility.obj) : error LNK2019: unresolved external symbol __vcrt_uninitialize referenced in function __scrt_initialize_crt
+MSVCRTD.lib(utility.obj) : error LNK2019: unresolved external symbol __vcrt_uninitialize_critical referenced in function __scrt_dllmain_uninitialize_critical
+MSVCRTD.lib(utility.obj) : error LNK2019: unresolved external symbol __vcrt_thread_attach referenced in function __scrt_dllmain_crt_thread_attach
+MSVCRTD.lib(utility.obj) : error LNK2019: unresolved external symbol __vcrt_thread_detach referenced in function __scrt_dllmain_crt_thread_attach
+MSVCRTD.lib(utility.obj) : error LNK2019: unresolved external symbol _seh_filter_dll referenced in function __scrt_dllmain_exception_filter
+MSVCRTD.lib(utility.obj) : error LNK2019: unresolved external symbol _is_c_termination_complete referenced in function __scrt_dllmain_uninitialize_c
+MSVCRTD.lib(utility.obj) : error LNK2019: unresolved external symbol _configure_narrow_argv referenced in function "public: static int __cdecl __scrt_narrow_argv_policy::configure_argv(void)" (?configure_argv@__scrt_narrow_argv_policy@@SAHXZ)
+MSVCRTD.lib(utility.obj) : error LNK2019: unresolved external symbol _initialize_narrow_environment referenced in function "public: static int __cdecl __scrt_narrow_environment_policy::initialize_environment(void)" (?initialize_environment@__scrt_narrow_environment_policy@@SAHXZ)
+MSVCRTD.lib(utility.obj) : error LNK2019: unresolved external symbol _initialize_onexit_table referenced in function __scrt_initialize_onexit_tables
+MSVCRTD.lib(utility.obj) : error LNK2019: unresolved external symbol _register_onexit_function referenced in function _onexit
+MSVCRTD.lib(utility.obj) : error LNK2019: unresolved external symbol _execute_onexit_table referenced in function __scrt_dllmain_uninitialize_c
+MSVCRTD.lib(utility.obj) : error LNK2019: unresolved external symbol _crt_atexit referenced in function _onexit
+MSVCRTD.lib(utility.obj) : error LNK2019: unresolved external symbol _crt_at_quick_exit referenced in function at_quick_exit
+MSVCRTD.lib(utility.obj) : error LNK2019: unresolved external symbol __acrt_initialize referenced in function __scrt_initialize_crt
+MSVCRTD.lib(utility.obj) : error LNK2019: unresolved external symbol __acrt_uninitialize referenced in function __scrt_uninitialize_crt
+MSVCRTD.lib(utility.obj) : error LNK2019: unresolved external symbol __acrt_uninitialize_critical referenced in function __scrt_dllmain_uninitialize_critical
+MSVCRTD.lib(utility.obj) : error LNK2019: unresolved external symbol __acrt_thread_attach referenced in function __scrt_dllmain_crt_thread_attach
+MSVCRTD.lib(utility.obj) : error LNK2019: unresolved external symbol __acrt_thread_detach referenced in function __scrt_dllmain_crt_thread_detach
+MSVCRTD.lib(utility.obj) : error LNK2019: unresolved external symbol _cexit referenced in function __scrt_dllmain_uninitialize_c
+MSVCRTD.lib(utility.obj) : error LNK2001: unresolved external symbol __C_specific_handler
+MSVCRTD.lib(throw_bad_alloc.obj) : error LNK2019: unresolved external symbol __std_exception_copy referenced in function "public: __cdecl std::exception::exception(class std::exception const &)" (??0exception@std@@QEAA@AEBV01@@Z)
+MSVCRTD.lib(throw_bad_alloc.obj) : error LNK2019: unresolved external symbol __std_exception_destroy referenced in function "public: virtual __cdecl std::exception::~exception(void)" (??1exception@std@@UEAA@XZ)
+MSVCRTD.lib(delete_scalar.obj) : error LNK2019: unresolved external symbol _free_dbg referenced in function "void __cdecl operator delete(void *)" (??3@YAXPEAX@Z)
+MSVCRTD.lib(error.obj) : error LNK2019: unresolved external symbol strcpy_s referenced in function "void __cdecl _RTC_StackFailure(void *,char const *)" (?_RTC_StackFailure@@YAXPEAXPEBD@Z)
+MSVCRTD.lib(error.obj) : error LNK2019: unresolved external symbol strcat_s referenced in function "void __cdecl _RTC_StackFailure(void *,char const *)" (?_RTC_StackFailure@@YAXPEAXPEBD@Z)
+MSVCRTD.lib(error.obj) : error LNK2019: unresolved external symbol __stdio_common_vsprintf_s referenced in function _vsprintf_s_l
+MSVCRTD.lib(error.obj) : error LNK2001: unresolved external symbol __C_specific_handler_noexcept
+MSVCRTD.lib(utility_desktop.obj) : error LNK2019: unresolved external symbol terminate referenced in function __scrt_unhandled_exception_filter
+MSVCRTD.lib(pdblkup.obj) : error LNK2019: unresolved external symbol _wmakepath_s referenced in function "int __cdecl GetPdbDllPathFromFilePath(wchar_t const *,wchar_t *,unsigned __int64)" (?GetPdbDllPathFromFilePath@@YAHPEB_WPEA_W_K@Z)
+MSVCRTD.lib(pdblkup.obj) : error LNK2019: unresolved external symbol _wsplitpath_s referenced in function "int __cdecl GetPdbDllPathFromFilePath(wchar_t const *,wchar_t *,unsigned __int64)" (?GetPdbDllPathFromFilePath@@YAHPEB_WPEA_W_K@Z)
+MSVCRTD.lib(pdblkup.obj) : error LNK2019: unresolved external symbol wcscpy_s referenced in function "int __cdecl GetPdbDllPathFromFilePath(wchar_t const *,wchar_t *,unsigned __int64)" (?GetPdbDllPathFromFilePath@@YAHPEB_WPEA_W_K@Z)
+MSVCRTD.lib(pdblkup.obj) : error LNK2019: unresolved external symbol __vcrt_GetModuleFileNameW referenced in function "struct HINSTANCE__ * __cdecl GetPdbDll(void)" (?GetPdbDll@@YAPEAUHINSTANCE__@@XZ)
+MSVCRTD.lib(pdblkup.obj) : error LNK2019: unresolved external symbol __vcrt_GetModuleHandleW referenced in function "struct HINSTANCE__ * __cdecl GetPdbDll(void)" (?GetPdbDll@@YAPEAUHINSTANCE__@@XZ)
+MSVCRTD.lib(pdblkup.obj) : error LNK2019: unresolved external symbol __vcrt_LoadLibraryExW referenced in function "struct HINSTANCE__ * __cdecl GetPdbDll(void)" (?GetPdbDll@@YAPEAUHINSTANCE__@@XZ)
+D:\HitMeGame\GameEngine\x64\Debug\GameEngine.exe : fatal error LNK1120: 95 unresolved externals
